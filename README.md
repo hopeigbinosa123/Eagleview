@@ -1,0 +1,3 @@
+# Eagleview
+6/08/2024: the begining of git
+i was able to create a git resporitory of the folder. i was able to use the terminal to create a new resporitory on git using the command of 'git init' to create responritory of the file. then it showed untracked meaning that it was not yet uploaded. then i used the following commands 'git add .' to add git into my work. then my status changed to commit after that. which means that my files are all in my resporitory.
